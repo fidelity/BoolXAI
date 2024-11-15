@@ -3,7 +3,7 @@
 *This repo is being made available as a static archive. It has been released by Fidelity Investments under the Apache 2.0 license, and will not receive updates.*
 *If you have questions, please contact <opensource@fidelity.com>*.
 
-[![ci](https://github.com/fidelity/boolxai/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/fidelity/boolxai/actions/workflows/ci.yml)
+[![ci](https://github.com/fidelity/boolxai/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/fidelity/boolxai/actions/workflows/ci.yml)
 [![PyPI version fury.io](https://badge.fury.io/py/boolxai.svg)](https://pypi.python.org/pypi/boolxai/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)](https://www.python.org/downloads/release/python-3100/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
