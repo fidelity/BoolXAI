@@ -11,7 +11,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Downloads](https://static.pepy.tech/personalized-badge/boolxai?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Downloads)](https://pepy.tech/project/boolxai)
 
-BoolXAI ([MAKE'23](https://www.mdpi.com/2504-4990/5/4/86), [ArXiv'23](https://arxiv.org/pdf/2306.03976)) is a research library for Explainable AI (XAI) based
+BoolXAI ([IAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/35157), [MAKE'23](https://www.mdpi.com/2504-4990/5/4/86), [ArXiv'23](https://arxiv.org/pdf/2306.03976)) is a research library for Explainable AI (XAI) based
 on expressive Boolean formulas that allow And, Or, Choose(k), AtMost(k), and AtLeast(k) operators.
 
 The Boolean formula defines a rule with tunable
