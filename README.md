@@ -127,17 +127,8 @@ If you use BoolXAI in a publication, please cite it as:
 
 ```bibtex
 @inproceedings{DBLP:conf/aaai/KadiogluZRBSSZK25,
-  author       = {Serdar Kadioglu and
-                  Elton Yechao Zhu and
-                  Gili Rosenberg and
-                  John Kyle Brubaker and
-                  Martin J. A. Schuetz and
-                  Grant Salton and
-                  Zhihuai Zhu and
-                  Helmut G. Katzgraber},
-  editor       = {Toby Walsh and
-                  Julie Shah and
-                  Zico Kolter},
+  author       = {Serdar Kadioglu and Elton Yechao Zhu and Gili Rosenberg and John Kyle Brubaker and Martin J. A. Schuetz and Grant Salton and Zhihuai Zhu and Helmut G. Katzgraber},
+  editor       = {Toby Walsh and Julie Shah and Zico Kolter},
   title        = {BoolXAI: Explainable {AI} Using Expressive Boolean Formulas},
   booktitle    = {AAAI-25, Sponsored by the Association for the Advancement of Artificial
                   Intelligence, February 25 - March 4, 2025, Philadelphia, PA, {USA}},
@@ -148,15 +139,7 @@ If you use BoolXAI in a publication, please cite it as:
 }
 
 @article{DBLP:journals/make/RosenbergBSSZZKBK23,
-  author       = {Gili Rosenberg and
-                  John Kyle Brubaker and
-                  Martin J. A. Schuetz and
-                  Grant Salton and
-                  Zhihuai Zhu and
-                  Elton Yechao Zhu and
-                  Serdar Kadioglu and
-                  Sima E. Borujeni and
-                  Helmut G. Katzgraber},
+  author       = {Gili Rosenberg and John Kyle Brubaker and Martin J. A. Schuetz and Grant Salton and Zhihuai Zhu and Elton Yechao Zhu and Serdar Kadioglu and Sima E. Borujeni and Helmut G. Katzgraber},
   title        = {Explainable Artificial Intelligence Using Expressive Boolean Formulas},
   journal      = {Mach. Learn. Knowl. Extr.},
   volume       = {5},
