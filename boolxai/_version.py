@@ -8,4 +8,4 @@ __copyright__ = "Portions copyright 2023 FMR LLC, portions copyright 2023 Amazon
 __docurl__ = "https://fidelity.github.io/boolxai/"
 __email__ = "opensource@fmr.com"
 __url__ = "https://github.com/fidelity/boolxai"
-__version__ = "1.0.0"
+__version__ = "1.1.0"
